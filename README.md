@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I'm a 4th year Computer Science student (AI/ML) focused on Artificial Intelligence and Machine Learning projects, building end-to-end ML applications.
-
+Focused on real world problem solving.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hacketcash@gmail.com) 
